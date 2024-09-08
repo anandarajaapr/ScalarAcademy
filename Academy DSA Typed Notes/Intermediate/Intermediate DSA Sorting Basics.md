@@ -102,6 +102,10 @@ Please take some time to think about the solution approach on your own before re
 
 ![](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/031/455/original/remove.jpeg?1681489808)
 
+Two ways to do this:
+  1) If the array is sorted asc,  it will be 4a+3b+2c+d (So the formula to calculate will be (n-i * A[i])
+  2) If the array is sorted desc, it will be a+2b+3c+4d (So the formula to calculate will be (i+1 * A[i])
+
 Here we can see if we have to minimise the cost we should add the largest number minimum number of times, that implies it should be the first one to be removed. 
 The formula would be **$\sum$(i+1)\*arr[i]** where **i** is the index. 
 
@@ -117,7 +121,7 @@ int calculate_cost(int arr[], int n) {
     reverse_sort(arr);
     int ans = 0;
     for (int i = 0; i < n; i++) {
-        ans += i * arr[i];
+        ans += (i+1) * arr[i];
     }
 
     return ans;
