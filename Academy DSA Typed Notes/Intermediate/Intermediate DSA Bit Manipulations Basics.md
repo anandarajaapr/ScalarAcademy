@@ -384,6 +384,9 @@ What is the minimum & maximum no. that can be stored in the given no. of bits?
 
 <img width="1210" alt="Screenshot 2024-09-12 at 6 23 23 PM" src="https://github.com/user-attachments/assets/ba446a39-6bc3-49ce-a253-3ca21464c6ad">
 
+<img width="1259" alt="Screenshot 2024-09-12 at 6 25 33 PM" src="https://github.com/user-attachments/assets/0aa8ad09-2dc4-42ee-a9ce-c1d99cfb7cdf">
+
+
 
 ![](https://hackmd.io/_uploads/B1K61joE3.png)
 
