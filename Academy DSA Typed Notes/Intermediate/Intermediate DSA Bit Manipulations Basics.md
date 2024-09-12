@@ -382,6 +382,9 @@ Choose the correct answer
 ### Range of Data Types
 What is the minimum & maximum no. that can be stored in the given no. of bits?
 
+<img width="1210" alt="Screenshot 2024-09-12 at 6 23 23 PM" src="https://github.com/user-attachments/assets/ba446a39-6bc3-49ce-a253-3ca21464c6ad">
+
+
 ![](https://hackmd.io/_uploads/B1K61joE3.png)
 
 Generalisation for N Bits:
