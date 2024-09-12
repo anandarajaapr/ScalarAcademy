@@ -28,6 +28,9 @@ For example,
 ```
 ```cpp
 1011 = 1*2^3 + 0*2^2 1*2^1 + 1*2^0 = 8 + 0 + 2 + 1 = 11
+
+Decimal to binary => Divide by 2
+Binary to Decimal => Multiply by 2
 ```
 
 ---
