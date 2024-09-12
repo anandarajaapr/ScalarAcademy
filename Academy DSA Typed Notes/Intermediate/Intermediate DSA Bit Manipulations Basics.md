@@ -345,6 +345,9 @@ Example of converting the negative number $-5$ to its $8-bit$ binary representat
 1. The MSB has a negative base and that is where the negative sign comes from.
 2. In case of positive number, MSB is always 0 and in case of negative number, MSB is 1.
 
+   
+<img width="1331" alt="Screenshot 2024-09-12 at 6 04 01 PM" src="https://github.com/user-attachments/assets/09a1515c-edce-4ed6-83ef-7d039242fef2">
+
 ---
 ### Question
 
@@ -399,10 +402,6 @@ For integer,
 For long,
 
 ![](https://hackmd.io/_uploads/rJjtkwY4n.png)
-
-Negative Numbers:
----
-<img width="1331" alt="Screenshot 2024-09-12 at 6 04 01 PM" src="https://github.com/user-attachments/assets/09a1515c-edce-4ed6-83ef-7d039242fef2">
 
 
 ### Importance of Constraints
