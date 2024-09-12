@@ -400,8 +400,10 @@ For long,
 
 ![](https://hackmd.io/_uploads/rJjtkwY4n.png)
 
-
+Negative Numbers:
 ---
+<img width="1331" alt="Screenshot 2024-09-12 at 6 04 01 PM" src="https://github.com/user-attachments/assets/09a1515c-edce-4ed6-83ef-7d039242fef2">
+
 
 ### Importance of Constraints
 Let's understand the importance of constraints using example.
