@@ -325,6 +325,9 @@ Performing XOR on each pair of bits, we get:
 Therefore, the value of A XOR B is 00111001, which is 57 in decimal format.
 
 ---
+
+Signed int - Holds both positive and negative values
+Unsigned int - Holds only postivite values
 ### Binary Representation of Negative numbers
 
 To convert a negative number to its binary representation, we can use two's complement representation. 
